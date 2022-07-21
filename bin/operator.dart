@@ -45,4 +45,8 @@ void main() {
     ..color = 'black'
     ..strokeCap = 'round'
     ..strokeWidth = 5.0;
+
+  // typecasting
+  var num = 23 as String;
+  num is String; // true
 }
