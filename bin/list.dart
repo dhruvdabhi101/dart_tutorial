@@ -33,6 +33,6 @@ void main() {
   var cart = [
     'carrot',
     'apple',
-    if(diabetic) 'karela'
-  ]
+    if (diabetic) 'karela',
+  ];
 }
